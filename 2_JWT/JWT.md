@@ -20,7 +20,9 @@ The signing algorithm being used and the type of token, which is in this case mo
 
 3) Signature : This is typically a hash of the header and payload sections of the JWT. The algorithm which is used to create the signature is the same algorithm mentioned in the header section of the JWT. Signature is used to validate that the JWT token wasn’t modified or changed during transit. It can also be used to validate the sender.
 
-<!-- Here is an example which I encoded for my name on jwt.io, -->
+ Here is an example which I encoded for my name on jwt.io, 
+ ![image](https://user-images.githubusercontent.com/66771301/204018551-e54253b4-b971-4cab-87fa-333fa8d72614.png)
+
 
 **Benefits of JWT**
 
