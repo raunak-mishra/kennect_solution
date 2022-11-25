@@ -1,0 +1,22 @@
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+.important{
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+.shape{
+    margin: 10px;
+    padding: 10px;
+    color: red;
+    font-size: 2em;
+}
+.btn{
+    margin: 20px;
+    padding: 10px;
+}
